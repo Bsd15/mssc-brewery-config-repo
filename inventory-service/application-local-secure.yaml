@@ -1,8 +1,8 @@
 spring:
   datasource:
     password: '{cipher}b5742f876c1819ff5db1a3018e0409846808b1783c831bf38efa12f8909b8161'
-    url: jdbc:mysql://localhost:3306/beerservice?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
-    username: beer_service
+    url: jdbc:mysql://localhost:3306/beerinventoryservice?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    username: beer_inventory_service
   artemis:
     user: artemis
     password: '{cipher}bdeac0434bbdfacf503ebc4eb293064e485b8912856c0f21c0d18823e7f1b1e2'
