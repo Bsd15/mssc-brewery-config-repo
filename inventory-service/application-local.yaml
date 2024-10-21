@@ -4,5 +4,5 @@ spring:
     url: jdbc:mysql://localhost:3306/beerinventoryservice?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
     username: beer_inventory_service
   artemis:
-    user: artemis
+    user: user
     password: password
